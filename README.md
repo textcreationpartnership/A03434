@@ -35,11 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-❧STRAVNGE,
-Lamentable, and Tragicall
-Hystories.TRANSLATED OVT OF
-French into Engliſhe,
-by R. S.*ANNO
+
 1. ¶To the right Worſhipfull, Mayſter
 Henry Vernon of Stoke, in the Countye
 of Salop, & Mayſter Iohn Vernon of Sudbury, in th• Countye
